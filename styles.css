@@ -1,0 +1,22 @@
+.flag {
+  width: 300px; 
+  height: 200px; 
+  display: flex;
+  border: 1px solid black;
+}
+
+.stripe {
+  flex: 1;
+}
+
+.black {
+  background-color: black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.red {
+  background-color: red;
+}
